@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<project="hello world" default="info">
-<target=""info">
-<echo>hello world sample1</echo>
+<project name="hello world" default="info">
+<target name="info">
+<echo> hello world sample1</echo>
 </target>
 </project>
